@@ -1,4 +1,6 @@
 # ProApes - Predire in Grafana
+![Node.js CI](https://github.com/Kero2375/predire-in-grafana/workflows/Node.js%20CI/badge.svg)
+
 ## Modulo di addestramento
 `./react-training-module`
 
