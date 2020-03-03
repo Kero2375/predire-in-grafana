@@ -1,0 +1,12 @@
+.diff, .title{
+    padding: .5em;
+    display: block;
+    margin: 1em;
+    font-family: 'Courier New', Courier, monospace;
+    width: max-content;
+}
+
+.diff{
+    margin: 1em auto;
+    text-align: center;
+}
