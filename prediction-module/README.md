@@ -12,6 +12,10 @@ To work with this plugin run:
 yarn dev
 ```
 
+```BASH
+yarn build
+```
+
 or
 
 ```BASH
