@@ -1,0 +1,25 @@
+{
+    "name": "prediction-app",
+    "version": "2.0.0",
+    "description": "Prediction App",
+    "scripts": {
+        "build": "grafana-toolkit plugin:build",
+        "test": "jest",
+        "dev": "grafana-toolkit plugin:dev",
+        "watch": "grafana-toolkit plugin:dev --watch"
+    },
+    "author": "ProApes",
+    "license": "Apache-2.0",
+    "devDependencies": {
+        "@grafana/data": "next",
+        "@grafana/toolkit": "next",
+        "@grafana/ui": "next",
+        "ts-loader": "^6.2.2"
+    },
+    "dependencies": {
+        "@types/jest": "^25.2.1",
+        "@types/jquery": "^3.3.34",
+        "babel": "^6.23.0",
+        "typescript": "^3.7.5"
+    }
+}
